@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning coding with ai help
 - 🌱 I’m currently learning many things
 - 💞️ I’m looking to collaborate on ... let me start something first
-- 📫 How to reach me ... so many questions! 
+- 📫 How to reach me ... UUUH so many questions! 
 
 <!---
 CoAmProgramming/CoAmProgramming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
